@@ -14,7 +14,7 @@
 ---
 
 ## 📌 Projects  
-### 🔹 [Phishing URL Detection using Machine Learning](https://github.com/Kritika-Kapse/phishing-url-detection)  
+### 🔹 [Phishing URL Detection using Machine Learning](https://github.com/Kritika-Kapse/Phishing_detection)  
 A **machine learning-based phishing detection system** with **97.5% accuracy**, improving cybersecurity by identifying malicious URLs.  
 🛠 **Tech Stack:** Python, Machine Learning, Google Colab  
 
